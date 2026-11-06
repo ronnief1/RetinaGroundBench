@@ -15,7 +15,7 @@ and matching criterion tailored to the multi-box prediction behaviour of MLLMs, 
 
 The accompanying manuscript is currently **under review at *npj Digital Medicine***.
 
-**The data, evaluation code, and the RetGrounder baseline will be released here upon
+**The data, evaluation code, and the RetGrounder model will be released here upon
 acceptance.**
 
 For questions in the meantime, please contact the corresponding author.
